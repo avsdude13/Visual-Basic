@@ -1,0 +1,21 @@
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\bin\Debug\Homework 6 Problem 5.3.exe.config
+C:\Users\TEMP.WINAD.350\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\bin\Debug\Homework 6 Problem 5.3.exe.config
+C:\Users\TEMP.WINAD.350\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\bin\Debug\Homework 6 Problem 5.3.exe
+C:\Users\TEMP.WINAD.350\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\bin\Debug\Homework 6 Problem 5.3.pdb
+C:\Users\TEMP.WINAD.350\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\bin\Debug\Homework 6 Problem 5.3.xml
+C:\Users\TEMP.WINAD.350\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\obj\Debug\WindowsApplication1.SalesCalculator.resources
+C:\Users\TEMP.WINAD.350\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\TEMP.WINAD.350\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\obj\Debug\Homework 6 Problem 5.3.vbproj.GenerateResource.Cache
+C:\Users\TEMP.WINAD.350\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\obj\Debug\Homework 6 Problem 5.3.exe
+C:\Users\TEMP.WINAD.350\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\obj\Debug\Homework 6 Problem 5.3.xml
+C:\Users\TEMP.WINAD.350\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\obj\Debug\Homework 6 Problem 5.3.pdb
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\bin\Debug\Homework 6 Problem 5.3.exe.config
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\obj\Debug\Homework 6 Problem 5.3.exe
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\obj\Debug\Homework 6 Problem 5.3.xml
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\obj\Debug\Homework 6 Problem 5.3.pdb
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\obj\Debug\WindowsApplication1.SalesCalculator.resources
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\obj\Debug\Homework 6 Problem 5.3.vbproj.GenerateResource.Cache
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\bin\Debug\Homework 6 Problem 5.3.exe
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\bin\Debug\Homework 6 Problem 5.3.pdb
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\Homework 6 Problem 5.3\bin\Debug\Homework 6 Problem 5.3.xml
