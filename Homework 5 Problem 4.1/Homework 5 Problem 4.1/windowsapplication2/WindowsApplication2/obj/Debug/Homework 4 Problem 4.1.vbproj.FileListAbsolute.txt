@@ -1,0 +1,4 @@
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\Homework 5 Problem 4.1\Homework 5 Problem 4.1\windowsapplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\Homework 5 Problem 4.1\Homework 5 Problem 4.1\windowsapplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\Homework 5 Problem 4.1\Homework 5 Problem 4.1\windowsapplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\Homework 5 Problem 4.1\Homework 5 Problem 4.1\windowsapplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
