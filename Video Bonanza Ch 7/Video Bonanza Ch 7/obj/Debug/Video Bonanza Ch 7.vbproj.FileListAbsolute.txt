@@ -1,0 +1,11 @@
+c:\users\matt\documents\visual studio 2012\Projects\Video Bonanza Ch 7\Video Bonanza Ch 7\bin\Debug\Video Bonanza Ch 7.exe.config
+c:\users\matt\documents\visual studio 2012\Projects\Video Bonanza Ch 7\Video Bonanza Ch 7\obj\Debug\Video_Bonanza_Ch_7.VideoBonanzaCh7.resources
+c:\users\matt\documents\visual studio 2012\Projects\Video Bonanza Ch 7\Video Bonanza Ch 7\obj\Debug\Video_Bonanza_Ch_7.Resources.resources
+c:\users\matt\documents\visual studio 2012\Projects\Video Bonanza Ch 7\Video Bonanza Ch 7\obj\Debug\Video Bonanza Ch 7.vbproj.GenerateResource.Cache
+c:\users\matt\documents\visual studio 2012\Projects\Video Bonanza Ch 7\Video Bonanza Ch 7\bin\Debug\Video Bonanza Ch 7.exe
+c:\users\matt\documents\visual studio 2012\Projects\Video Bonanza Ch 7\Video Bonanza Ch 7\bin\Debug\Video Bonanza Ch 7.pdb
+c:\users\matt\documents\visual studio 2012\Projects\Video Bonanza Ch 7\Video Bonanza Ch 7\bin\Debug\Video Bonanza Ch 7.xml
+c:\users\matt\documents\visual studio 2012\Projects\Video Bonanza Ch 7\Video Bonanza Ch 7\obj\Debug\Video_Bonanza_Ch_7.about.resources
+c:\users\matt\documents\visual studio 2012\Projects\Video Bonanza Ch 7\Video Bonanza Ch 7\obj\Debug\Video Bonanza Ch 7.exe
+c:\users\matt\documents\visual studio 2012\Projects\Video Bonanza Ch 7\Video Bonanza Ch 7\obj\Debug\Video Bonanza Ch 7.xml
+c:\users\matt\documents\visual studio 2012\Projects\Video Bonanza Ch 7\Video Bonanza Ch 7\obj\Debug\Video Bonanza Ch 7.pdb

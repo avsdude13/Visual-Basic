@@ -1,0 +1,10 @@
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\VideoBonanza5\VideoBonanza4\VideoBonanza4\bin\Debug\VideoBonanza4.exe.config
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\VideoBonanza5\VideoBonanza4\VideoBonanza4\bin\Debug\VideoBonanza4.exe
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\VideoBonanza5\VideoBonanza4\VideoBonanza4\bin\Debug\VideoBonanza4.pdb
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\VideoBonanza5\VideoBonanza4\VideoBonanza4\bin\Debug\VideoBonanza4.xml
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\VideoBonanza5\VideoBonanza4\VideoBonanza4\obj\Debug\WindowsApplication1.VideoBonanza.resources
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\VideoBonanza5\VideoBonanza4\VideoBonanza4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\VideoBonanza5\VideoBonanza4\VideoBonanza4\obj\Debug\VideoBonanza5.vbproj.GenerateResource.Cache
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\VideoBonanza5\VideoBonanza4\VideoBonanza4\obj\Debug\VideoBonanza4.exe
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\VideoBonanza5\VideoBonanza4\VideoBonanza4\obj\Debug\VideoBonanza4.xml
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\VideoBonanza5\VideoBonanza4\VideoBonanza4\obj\Debug\VideoBonanza4.pdb

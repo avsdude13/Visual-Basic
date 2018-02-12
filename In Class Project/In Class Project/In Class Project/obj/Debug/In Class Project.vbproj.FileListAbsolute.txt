@@ -1,0 +1,14 @@
+D:\School 2016\Visual Basics\In class exercise 2-4\In Class Project\In Class Project\bin\Debug\In Class Project.exe.config
+D:\School 2016\Visual Basics\In class exercise 2-4\In Class Project\In Class Project\obj\Debug\WindowsApplication1.ReadingAndRefreshment.resources
+D:\School 2016\Visual Basics\In class exercise 2-4\In Class Project\In Class Project\obj\Debug\WindowsApplication1.Resources.resources
+D:\School 2016\Visual Basics\In class exercise 2-4\In Class Project\In Class Project\obj\Debug\In Class Project.vbproj.GenerateResource.Cache
+D:\School 2016\Visual Basics\In class exercise 2-4\In Class Project\In Class Project\bin\Debug\In Class Project.exe
+D:\School 2016\Visual Basics\In class exercise 2-4\In Class Project\In Class Project\bin\Debug\In Class Project.pdb
+D:\School 2016\Visual Basics\In class exercise 2-4\In Class Project\In Class Project\bin\Debug\In Class Project.xml
+D:\School 2016\Visual Basics\In class exercise 2-4\In Class Project\In Class Project\obj\Debug\In Class Project.exe
+D:\School 2016\Visual Basics\In class exercise 2-4\In Class Project\In Class Project\obj\Debug\In Class Project.xml
+D:\School 2016\Visual Basics\In class exercise 2-4\In Class Project\In Class Project\obj\Debug\In Class Project.pdb
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\In Class Project\In Class Project\In Class Project\bin\Debug\In Class Project.exe.config
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\In Class Project\In Class Project\In Class Project\obj\Debug\In Class Project.exe
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\In Class Project\In Class Project\In Class Project\obj\Debug\In Class Project.xml
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\In Class Project\In Class Project\In Class Project\obj\Debug\In Class Project.pdb

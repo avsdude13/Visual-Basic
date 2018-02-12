@@ -1,0 +1,14 @@
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\In Class Project Ch 8\bin\Debug\In Class Project Ch 8.exe.config
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\In Class Project Ch 8\bin\Debug\In Class Project Ch 8.exe
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\In Class Project Ch 8\bin\Debug\In Class Project Ch 8.pdb
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\In Class Project Ch 8\bin\Debug\In Class Project Ch 8.xml
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\In Class Project Ch 8\obj\Debug\In_Class_Project_Ch_8.ReadingAndRefreshment.resources
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\In Class Project Ch 8\obj\Debug\In_Class_Project_Ch_8.Resources.resources
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\In Class Project Ch 8\obj\Debug\In Class Project Ch 8.vbproj.GenerateResource.Cache
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\In Class Project Ch 8\obj\Debug\In Class Project Ch 8.exe
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\In Class Project Ch 8\obj\Debug\In Class Project Ch 8.xml
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\In Class Project Ch 8\obj\Debug\In Class Project Ch 8.pdb
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\In Class Project Ch 8\In Class Project Ch 8\bin\Debug\In Class Project Ch 8.exe.config
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\In Class Project Ch 8\In Class Project Ch 8\obj\Debug\In Class Project Ch 8.exe
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\In Class Project Ch 8\In Class Project Ch 8\obj\Debug\In Class Project Ch 8.xml
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\In Class Project Ch 8\In Class Project Ch 8\obj\Debug\In Class Project Ch 8.pdb

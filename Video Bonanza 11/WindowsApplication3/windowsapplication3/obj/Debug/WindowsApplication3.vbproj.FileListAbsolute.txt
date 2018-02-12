@@ -1,0 +1,11 @@
+c:\users\matt\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\VideoBonanza11.exe.config
+c:\users\matt\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\VideoBonanza11.Resources.resources
+c:\users\matt\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\VideoBonanza11.VideoBonanzaCh11.resources
+c:\users\matt\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+c:\users\matt\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\VideoBonanza11.exe
+c:\users\matt\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\VideoBonanza11.pdb
+c:\users\matt\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\VideoBonanza11.xml
+c:\users\matt\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\VideoBonanza11.about.resources
+c:\users\matt\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\VideoBonanza11.exe
+c:\users\matt\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\VideoBonanza11.xml
+c:\users\matt\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\VideoBonanza11.pdb

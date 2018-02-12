@@ -1,0 +1,14 @@
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\In Class Project 4\In Class Project 4\In Class Project 4\obj\Debug\WindowsApplication1.ReadingAndRefreshment.resources
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\In Class Project 4\In Class Project 4\In Class Project 4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\In Class Project 4\In Class Project 4\In Class Project 4\obj\Debug\In Class Project 5.vbproj.GenerateResource.Cache
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\In Class Project 4\In Class Project 4\In Class Project 4\bin\Debug\In Class Project 4.exe.config
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\In Class Project 4\In Class Project 4\In Class Project 4\bin\Debug\In Class Project 4.exe
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\In Class Project 4\In Class Project 4\In Class Project 4\bin\Debug\In Class Project 4.pdb
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\In Class Project 4\In Class Project 4\In Class Project 4\bin\Debug\In Class Project 4.xml
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\In Class Project 4\In Class Project 4\In Class Project 4\obj\Debug\In Class Project 4.exe
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\In Class Project 4\In Class Project 4\In Class Project 4\obj\Debug\In Class Project 4.xml
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\In Class Project 4\In Class Project 4\In Class Project 4\obj\Debug\In Class Project 4.pdb
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\In Class Project 5\In Class Project 4\In Class Project 4\bin\Debug\In Class Project 4.exe.config
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\In Class Project 5\In Class Project 4\In Class Project 4\obj\Debug\In Class Project 4.exe
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\In Class Project 5\In Class Project 4\In Class Project 4\obj\Debug\In Class Project 4.xml
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\In Class Project 5\In Class Project 4\In Class Project 4\obj\Debug\In Class Project 4.pdb

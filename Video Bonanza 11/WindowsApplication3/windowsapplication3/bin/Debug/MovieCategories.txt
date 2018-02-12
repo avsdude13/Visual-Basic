@@ -1,0 +1,7 @@
+Action
+Comedy
+Drama
+Horror
+New Category
+Romance
+Sci-Fi

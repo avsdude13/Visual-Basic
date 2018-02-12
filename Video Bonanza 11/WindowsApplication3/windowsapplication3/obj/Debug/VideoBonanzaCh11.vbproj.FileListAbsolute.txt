@@ -1,0 +1,11 @@
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\VideoBonanza11.exe.config
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\VideoBonanza11.exe
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\VideoBonanza11.xml
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\VideoBonanza11.pdb
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\VideoBonanza11.about.resources
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\VideoBonanza11.Resources.resources
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\VideoBonanza11.VideoBonanzaCh11.resources
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\VideoBonanzaCh11.vbproj.GenerateResource.Cache
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\VideoBonanza11.exe
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\VideoBonanza11.pdb
+C:\Users\TEMP.WINAD.001\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\VideoBonanza11.xml
