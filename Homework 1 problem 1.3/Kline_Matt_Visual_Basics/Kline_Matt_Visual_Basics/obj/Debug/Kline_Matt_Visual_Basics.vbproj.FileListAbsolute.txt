@@ -1,0 +1,21 @@
+C:\Users\TEMP\AppData\Local\Temporary Projects\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe.config
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe.config
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.HelloForm.resources
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.Resources.resources
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.vbproj.GenerateResource.Cache
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.pdb
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.xml
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.exe
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.xml
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.pdb
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe.config
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.exe
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.xml
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.pdb
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.pdb
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.xml
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.Resources.resources
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.vbproj.GenerateResource.Cache
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.Proverbs.resources
