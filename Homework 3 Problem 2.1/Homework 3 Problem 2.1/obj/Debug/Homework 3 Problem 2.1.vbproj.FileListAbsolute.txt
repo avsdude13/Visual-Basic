@@ -1,0 +1,20 @@
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\bin\Debug\Homework 3 Problem 2.1.exe.config
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\obj\Debug\WindowsApplication1.LightBulb.resources
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\obj\Debug\Homework 3 Problem 2.1.vbproj.GenerateResource.Cache
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\bin\Debug\Homework 3 Problem 2.1.exe
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\bin\Debug\Homework 3 Problem 2.1.pdb
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\bin\Debug\Homework 3 Problem 2.1.xml
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\obj\Debug\Homework 3 Problem 2.1.exe
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\obj\Debug\Homework 3 Problem 2.1.xml
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\obj\Debug\Homework 3 Problem 2.1.pdb
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\bin\Debug\Homework 3 Problem 2.1.exe.config
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\obj\Debug\Homework 3 Problem 2.1.exe
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\obj\Debug\Homework 3 Problem 2.1.xml
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\obj\Debug\Homework 3 Problem 2.1.pdb
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\bin\Debug\Homework 3 Problem 2.1.exe
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\bin\Debug\Homework 3 Problem 2.1.pdb
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\bin\Debug\Homework 3 Problem 2.1.xml
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\obj\Debug\WindowsApplication1.LightBulb.resources
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Homework 3 Problem 2.1\Homework 3 Problem 2.1\obj\Debug\Homework 3 Problem 2.1.vbproj.GenerateResource.Cache
