@@ -1,0 +1,4 @@
+C:\Users\TEMP.WINAD.002\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\TEMP.WINAD.002\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.IncomeSurveyForm.resources
+C:\Users\TEMP.WINAD.002\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\TEMP.WINAD.002\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
