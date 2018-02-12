@@ -1,0 +1,71 @@
+C:\Users\TEMP\AppData\Local\Temporary Projects\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe.config
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe.config
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.HelloForm.resources
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.Resources.resources
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.vbproj.GenerateResource.Cache
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.pdb
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.xml
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.exe
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.xml
+D:\School 2016\Visual Basics\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.pdb
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe.config
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.exe
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.xml
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.pdb
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.pdb
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.xml
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.Resources.resources
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.vbproj.GenerateResource.Cache
+D:\School 2016\Visual Basics\Homework 1 problem 1dot3\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.Proverbs.resources
+D:\School 2016\Visual Basics\Homework 1 problem 1.4\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe.config
+D:\School 2016\Visual Basics\Homework 1 problem 1.4\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.exe
+D:\School 2016\Visual Basics\Homework 1 problem 1.4\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.xml
+D:\School 2016\Visual Basics\Homework 1 problem 1.4\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.pdb
+D:\School 2016\Visual Basics\Homework 1 problem 1.4\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe
+D:\School 2016\Visual Basics\Homework 1 problem 1.4\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.pdb
+D:\School 2016\Visual Basics\Homework 1 problem 1.4\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.xml
+D:\School 2016\Visual Basics\Homework 1 problem 1.4\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.Resources.resources
+D:\School 2016\Visual Basics\Homework 1 problem 1.4\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.vbproj.GenerateResource.Cache
+D:\School 2016\Visual Basics\Homework 1 problem 1.4\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.CompanyInfo.resources
+D:\School 2016\Visual Basics\Homework 2 problem 1.5\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe.config
+D:\School 2016\Visual Basics\Homework 2 problem 1.5\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.exe
+D:\School 2016\Visual Basics\Homework 2 problem 1.5\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.xml
+D:\School 2016\Visual Basics\Homework 2 problem 1.5\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.pdb
+D:\School 2016\Visual Basics\Homework 2 problem 1.5\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe
+D:\School 2016\Visual Basics\Homework 2 problem 1.5\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.pdb
+D:\School 2016\Visual Basics\Homework 2 problem 1.5\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.xml
+D:\School 2016\Visual Basics\Homework 2 problem 1.5\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.CompanyInfo.resources
+D:\School 2016\Visual Basics\Homework 2 problem 1.5\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.Resources.resources
+D:\School 2016\Visual Basics\Homework 2 problem 1.5\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.vbproj.GenerateResource.Cache
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe.config
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.exe
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.xml
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.pdb
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.pdb
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.xml
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.VideoBonanza.resources
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.Resources.resources
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.vbproj.GenerateResource.Cache
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza 2\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe.config
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza 2\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.exe
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza 2\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.xml
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza 2\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.pdb
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza 2\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza 2\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.pdb
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza 2\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.xml
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza 2\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.VideoBonanza.resources
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza 2\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.Resources.resources
+C:\Users\Matt\Dropbox\School Spring 2016\Visual Basics\Projects\Case Study Video Bonanza 2\Kline_Matt_Visual_Basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.vbproj.GenerateResource.Cache
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Case Study Video Bonanza 2\Case Study Video Bonanza 2\kline_matt_visual_basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe.config
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Case Study Video Bonanza 2\Case Study Video Bonanza 2\kline_matt_visual_basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.exe
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Case Study Video Bonanza 2\Case Study Video Bonanza 2\kline_matt_visual_basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.xml
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Case Study Video Bonanza 2\Case Study Video Bonanza 2\kline_matt_visual_basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.pdb
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Case Study Video Bonanza 2\Case Study Video Bonanza 2\kline_matt_visual_basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.exe
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Case Study Video Bonanza 2\Case Study Video Bonanza 2\kline_matt_visual_basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.pdb
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Case Study Video Bonanza 2\Case Study Video Bonanza 2\kline_matt_visual_basics\Kline_Matt_Visual_Basics\bin\Debug\Kline_Matt_Visual_Basics.xml
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Case Study Video Bonanza 2\Case Study Video Bonanza 2\kline_matt_visual_basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.VideoBonanza.resources
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Case Study Video Bonanza 2\Case Study Video Bonanza 2\kline_matt_visual_basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.Resources.resources
+C:\Users\TEMP\Documents\Visual Studio 2012\Projects\Case Study Video Bonanza 2\Case Study Video Bonanza 2\kline_matt_visual_basics\Kline_Matt_Visual_Basics\obj\Debug\Kline_Matt_Visual_Basics.vbproj.GenerateResource.Cache
